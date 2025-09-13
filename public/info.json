@@ -12,7 +12,9 @@
   "package": {
     "readme": "README.md",
     "gallery": [
-      "gallery/screenshot.png"
+      "gallery/screenshot.png",
+      "gallery/daytime.png",
+      "gallery/night.png"
     ],
     "git_publish_branch": "releases",
     "ignore": [

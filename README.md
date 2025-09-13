@@ -42,8 +42,6 @@ Decorative structures used internally by the LobeHub team.
 - [x] **🎁 Better Chatting**: Decorate your factory with the LobeHub structures.
 - [x] **🌐 Internationalization**: Comprehensive i18n translation supporting 14 languages.
 
-<br />
-
 <div align="right">
 
 [![][back-to-top]](#readme-top)
