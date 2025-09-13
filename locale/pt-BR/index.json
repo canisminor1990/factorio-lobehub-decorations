@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "Decore sua fábrica com o logotipo de texto LobeHub, que pode brilhar à noite quando energizado."
+  },
+  "entity-name": {
+    "lobehub-text": "Logotipo de Texto LobeHub"
+  },
+  "item-name": {
+    "lobehub-text": "Logotipo de Texto LobeHub"
+  },
+  "mod-description": {
+    "lobehub-decorations": "Decorações arquitetônicas usadas internamente pela equipe LobeHub."
+  },
+  "mod-name": {
+    "lobehub-decorations": "Decorações Arquitetônicas LobeHub"
+  }
+}

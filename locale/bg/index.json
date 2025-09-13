@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "Украсете фабриката си с текстовия знак LobeHub, който свети през нощта, когато е включен."
+  },
+  "entity-name": {
+    "lobehub-text": "Текстов знак LobeHub"
+  },
+  "item-name": {
+    "lobehub-text": "Текстов знак LobeHub"
+  },
+  "mod-description": {
+    "lobehub-decorations": "Декоративни сгради, използвани вътрешно от екипа на LobeHub."
+  },
+  "mod-name": {
+    "lobehub-decorations": "Декоративни сгради LobeHub"
+  }
+}

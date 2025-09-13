@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "Decora la tua fabbrica con il logo testuale LobeHub, che si illumina di notte quando alimentato."
+  },
+  "entity-name": {
+    "lobehub-text": "Logo testuale LobeHub"
+  },
+  "item-name": {
+    "lobehub-text": "Logo testuale LobeHub"
+  },
+  "mod-description": {
+    "lobehub-decorations": "Edifici decorativi utilizzati internamente dal team di LobeHub."
+  },
+  "mod-name": {
+    "lobehub-decorations": "Edifici decorativi LobeHub"
+  }
+}

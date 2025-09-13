@@ -1,0 +1,17 @@
+{
+  "mod-description": {
+    "lobehub-decorations": "LobeHub 团队内部使用的装饰性建筑。"
+  },
+  "mod-name": {
+    "lobehub-decorations": "LobeHub 装饰建筑"
+  },
+  "item-name": {
+    "lobehub-text": "LobeHub 文字标志"
+  },
+  "entity-name": {
+    "lobehub-text": "LobeHub 文字标志"
+  },
+  "entity-description": {
+    "lobehub-text": "使用 LobeHub 文字标志装饰你的工厂, 通电后在夜晚可以发光"
+  }
+}

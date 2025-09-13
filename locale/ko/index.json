@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "LobeHub 문자 로고를 사용하여 공장을 장식하세요. 전원이 켜지면 밤에 빛납니다."
+  },
+  "entity-name": {
+    "lobehub-text": "LobeHub 문자 로고"
+  },
+  "item-name": {
+    "lobehub-text": "LobeHub 문자 로고"
+  },
+  "mod-description": {
+    "lobehub-decorations": "LobeHub 팀 내부에서 사용하는 장식용 건축물입니다."
+  },
+  "mod-name": {
+    "lobehub-decorations": "LobeHub 장식 건축물"
+  }
+}

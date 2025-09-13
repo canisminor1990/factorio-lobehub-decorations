@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "Versier je fabriek met het LobeHub tekstlogo, dat 's nachts oplicht wanneer het van stroom wordt voorzien."
+  },
+  "entity-name": {
+    "lobehub-text": "LobeHub Tekstlogo"
+  },
+  "item-name": {
+    "lobehub-text": "LobeHub Tekstlogo"
+  },
+  "mod-description": {
+    "lobehub-decorations": "Decoratieve gebouwen voor intern gebruik door het LobeHub-team."
+  },
+  "mod-name": {
+    "lobehub-decorations": "LobeHub Decoratieve Gebouwen"
+  }
+}

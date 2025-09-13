@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "LobeHub 文字ロゴを使って工場を装飾しましょう。通電すると夜間に光ります。"
+  },
+  "entity-name": {
+    "lobehub-text": "LobeHub 文字ロゴ"
+  },
+  "item-name": {
+    "lobehub-text": "LobeHub 文字ロゴ"
+  },
+  "mod-description": {
+    "lobehub-decorations": "LobeHub チーム内部で使用される装飾的な建築物。"
+  },
+  "mod-name": {
+    "lobehub-decorations": "LobeHub 装飾建築"
+  }
+}

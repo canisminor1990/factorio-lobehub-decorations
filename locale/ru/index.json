@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "Украсьте свою фабрику текстовым логотипом LobeHub, который светится ночью при подаче питания."
+  },
+  "entity-name": {
+    "lobehub-text": "Текстовый логотип LobeHub"
+  },
+  "item-name": {
+    "lobehub-text": "Текстовый логотип LobeHub"
+  },
+  "mod-description": {
+    "lobehub-decorations": "Декоративные постройки, используемые внутри команды LobeHub."
+  },
+  "mod-name": {
+    "lobehub-decorations": "Декоративные постройки LobeHub"
+  }
+}

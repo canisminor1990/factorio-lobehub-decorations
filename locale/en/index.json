@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "Decorate your factory with the LobeHub Text Logo, which glows at night when powered."
+  },
+  "entity-name": {
+    "lobehub-text": "LobeHub Text Logo"
+  },
+  "item-name": {
+    "lobehub-text": "LobeHub Text Logo"
+  },
+  "mod-description": {
+    "lobehub-decorations": "Decorative structures used internally by the LobeHub team."
+  },
+  "mod-name": {
+    "lobehub-decorations": "LobeHub Decorations"
+  }
+}

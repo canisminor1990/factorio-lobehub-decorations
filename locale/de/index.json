@@ -1,0 +1,17 @@
+{
+  "entity-description": {
+    "lobehub-text": "Dekoriere deine Fabrik mit dem LobeHub Schriftzug, der bei Stromversorgung nachts leuchtet."
+  },
+  "entity-name": {
+    "lobehub-text": "LobeHub Schriftzug"
+  },
+  "item-name": {
+    "lobehub-text": "LobeHub Schriftzug"
+  },
+  "mod-description": {
+    "lobehub-decorations": "Dekorative Gebäude, die intern vom LobeHub-Team verwendet werden."
+  },
+  "mod-name": {
+    "lobehub-decorations": "LobeHub Dekorationsgebäude"
+  }
+}
