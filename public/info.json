@@ -1,29 +1,19 @@
 {
   "author": "canisminor",
   "contact": "https://github.com/canisminor1990/factorio-lobehub-decorations/issues",
-  "dependencies": [
-    "base >= 2.0.0"
-  ],
+  "dependencies": ["base >= 2.0.0"],
   "description": "Add Fluent Emoji as virtual signals, which you can use as signals, markers, or in chats.",
   "factorio_version": "2.0",
   "homepage": "https://github.com/canisminor1990/factorio-lobehub-decorations",
   "name": "lobehub-decorations",
   "package": {
     "readme": "README.md",
-    "gallery": [
-      "gallery/screenshot.png",
-      "gallery/daytime.png",
-      "gallery/night.png"
-    ],
+    "gallery": ["gallery/screenshot.png", "gallery/daytime.png", "gallery/night.png"],
     "git_publish_branch": "releases",
-    "ignore": [
-      "gallery/**/*",
-      "**/*.ts",
-      "**/*.tsx"
-    ],
+    "ignore": ["gallery/**/*", "**/*.ts", "**/*.tsx"],
     "removeZipAfterPackage": true,
     "sync_portal_details": true
   },
   "title": "Lobehub Decorations",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
