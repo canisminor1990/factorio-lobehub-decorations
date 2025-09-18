@@ -2,12 +2,12 @@ import type { PrototypeData } from 'factorio:common';
 import type { LampPrototype } from 'factorio:prototype';
 import { by_pixel, table } from 'util';
 
-import { GRAPHICS, SOUNDS } from '../const';
+import { GRAPHICS, SOUNDS } from './const';
 
 declare const data: PrototypeData;
 declare const circuit_connector_definitions: any;
 declare const universal_connector_template: any;
-declare const default_circuit_wire_max_distance: any;
+declare const default_circuit_wire_max_distance: LampPrototype['circuit_wire_max_distance'];
 
 const small_lamp = data.raw?.lamp?.['small-lamp'];
 

@@ -13,5 +13,8 @@
   },
   "mod-name": {
     "lobehub-decorations": "Dekoracyjne budynki LobeHub"
+  },
+  "virtual-signal-name": {
+    "lobehub-logo": "Logo LobeHub"
   }
 }

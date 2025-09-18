@@ -1,7 +1,7 @@
 import type { PrototypeData } from 'factorio:common';
-import type { ItemPrototype } from 'factorio:prototype';
+import { ItemPrototype } from 'factorio:prototype';
 
-import { GRAPHICS, SOUNDS } from '../const';
+import { GRAPHICS, SOUNDS } from './const';
 
 declare const data: PrototypeData;
 
