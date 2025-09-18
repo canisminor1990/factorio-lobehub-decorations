@@ -1,5 +1,36 @@
 # Changelog
 
+## [Version&nbsp;1.1.0](https://github.com/canisminor1990/factorio-lobehub-decorations/compare/v1.0.2...v1.1.0)
+<sup>Released on **2025-09-18**</sup>
+
+
+#### ✨ Features
+
+- **misc**: Update tweaks.
+
+
+<br/>
+
+
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+
+
+#### What's improved
+
+* **misc**: Update tweaks ([430b867](https://github.com/canisminor1990/factorio-lobehub-decorations/commit/430b867))
+
+</details>
+
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version&nbsp;1.0.2](https://github.com/canisminor1990/factorio-lobehub-decorations/compare/v1.0.1...v1.0.2)
 <sup>Released on **2025-09-14**</sup>
 
