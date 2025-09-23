@@ -5,6 +5,11 @@
   "entity-name": {
     "lobehub-text": "LobeHub 文字標誌"
   },
+  "item-group-name": {
+    "circuit": "電路",
+    "science": "科學",
+    "transport": "運輸"
+  },
   "item-name": {
     "lobehub-text": "LobeHub 文字標誌"
   },

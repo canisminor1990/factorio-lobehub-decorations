@@ -5,6 +5,11 @@
   "entity-name": {
     "lobehub-text": "LobeHub Text Logo"
   },
+  "item-group-name": {
+    "circuit": "Circuit",
+    "science": "Science",
+    "transport": "Transport"
+  },
   "item-name": {
     "lobehub-text": "LobeHub Text Logo"
   },

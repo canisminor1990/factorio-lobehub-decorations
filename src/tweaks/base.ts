@@ -1,6 +1,8 @@
-import type { PrototypeData } from 'factorio:common';
+import type { ActiveMods, PrototypeData } from 'factorio:common';
+import { table } from 'util';
 
 declare const data: PrototypeData;
+declare const mods: ActiveMods;
 
 const undergroundBelts = data.raw['underground-belt'];
 
@@ -52,6 +54,51 @@ if (undergroundPips !== undefined) {
       if (max_underground_distance) {
         undergroundPip.fluid_box.pipe_connections[1].max_underground_distance =
           Math.ceil(max_underground_distance / 8) * 8;
+      }
+    }
+  }
+}
+
+if (mods['show-max-underground-distance']) {
+  const hover = settings.startup['show-max-underground-distance-on-hover'].value;
+  const icon = settings.startup['show-max-underground-distance-icon'].value;
+
+  const rvs_template = {
+    distance: 1,
+    draw_on_selection: hover,
+    sprite: {
+      filename: string.format('__show-max-underground-distance__/graphics/%s.png', icon),
+      priority: 'high',
+      size: 32,
+    },
+  };
+
+  const undergroundBelts = data.raw['underground-belt'];
+
+  if (undergroundBelts !== undefined) {
+    for (const name in undergroundBelts) {
+      const undergroundBelt = undergroundBelts[name];
+      if (undergroundBelt) {
+        const rvs: any = table.deepcopy(rvs_template);
+        rvs.offset = [0, -undergroundBelt.max_distance];
+        undergroundBelt.radius_visualisation_specification = rvs;
+      }
+    }
+  }
+
+  const undergroundPips = data.raw['pipe-to-ground'];
+
+  if (undergroundPips !== undefined) {
+    for (const name in undergroundPips) {
+      const undergroundPip = undergroundPips[name];
+      if (
+        undergroundPip &&
+        undergroundPip.fluid_box.pipe_connections.length > 1 &&
+        undergroundPip.fluid_box.pipe_connections[1]?.max_underground_distance !== undefined
+      ) {
+        const rvs: any = table.deepcopy(rvs_template);
+        rvs.offset = [0, undergroundPip.fluid_box.pipe_connections[1].max_underground_distance];
+        undergroundPip.radius_visualisation_specification = rvs;
       }
     }
   }
