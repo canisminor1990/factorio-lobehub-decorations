@@ -1,5 +1,36 @@
 # Changelog
 
+## [Version&nbsp;1.4.0](https://github.com/canisminor1990/factorio-lobehub-decorations/compare/v1.3.0...v1.4.0)
+<sup>Released on **2025-09-25**</sup>
+
+
+#### ✨ Features
+
+- **misc**: Add k2so new recipes.
+
+
+<br/>
+
+
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+
+
+#### What's improved
+
+* **misc**: Add k2so new recipes ([1ffc090](https://github.com/canisminor1990/factorio-lobehub-decorations/commit/1ffc090))
+
+</details>
+
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ## [Version&nbsp;1.3.0](https://github.com/canisminor1990/factorio-lobehub-decorations/compare/v1.2.0...v1.3.0)
 <sup>Released on **2025-09-24**</sup>
 
