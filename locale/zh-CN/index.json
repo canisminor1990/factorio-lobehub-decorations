@@ -19,6 +19,12 @@
   "mod-name": {
     "lobehub-decorations": "LobeHub 装饰建筑"
   },
+  "recipe-name": {
+    "solid-fuel-from-processed-fuel": "加工燃料制固体燃料",
+    "fertilizer-from-spoilage": "变质物堆肥",
+    "kr-advanced-tech-card-alternative": "高级科技卡聚合配方",
+    "kr-advanced-tech-card-cooling-alternative": "高级科技卡 带冷却聚合配方"
+  },
   "virtual-signal-name": {
     "lobehub-logo": "LobeHub Logo"
   }

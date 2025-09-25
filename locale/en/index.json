@@ -19,6 +19,12 @@
   "mod-name": {
     "lobehub-decorations": "LobeHub Decorations"
   },
+  "recipe-name": {
+    "fertilizer-from-spoilage": "Fertilizer from Spoilage",
+    "kr-advanced-tech-card-alternative": "Advanced Tech Card Aggregate Recipe",
+    "kr-advanced-tech-card-cooling-alternative": "Advanced Tech Card with Cooling Aggregate Recipe",
+    "solid-fuel-from-processed-fuel": "Solid Fuel from Processed Fuel"
+  },
   "virtual-signal-name": {
     "lobehub-logo": "LobeHub Logo"
   }

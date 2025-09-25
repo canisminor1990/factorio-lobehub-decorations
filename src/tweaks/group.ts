@@ -158,6 +158,10 @@ setGroup(data.raw['item-with-entity-data']['spidertron'], {
 // combat
 // ==============================
 
+setGroup(data.raw['item']['snouz_long_electric_gun_turret'], {
+  subgroup: 'kr-vanilla-turret',
+});
+
 setGroup(data.raw['item']['tesla-turret'], {
   subgroup: 'kr-vanilla-turret',
 });
@@ -178,22 +182,22 @@ setGroup(data.raw['item']['kr-railgun-turret'], {
   subgroup: 'kr-vanilla-turret',
 });
 
-setGroup(data.raw['item']['kr-basic-railgun-shell'], {
+setGroup(data.raw['ammo']['kr-basic-railgun-shell'], {
   subgroup: 'ammo',
 });
-setGroup(data.raw['item']['kr-explosive-railgun-shell'], {
+setGroup(data.raw['ammo']['kr-explosive-railgun-shell'], {
   subgroup: 'ammo',
 });
-setGroup(data.raw['item']['kr-antimatter-railgun-shell'], {
+setGroup(data.raw['ammo']['kr-antimatter-railgun-shell'], {
   subgroup: 'ammo',
 });
-setGroup(data.raw['item']['kr-explosive-turret-rocket'], {
+setGroup(data.raw['ammo']['kr-explosive-turret-rocket'], {
   subgroup: 'ammo',
 });
-setGroup(data.raw['item']['kr-nuclear-turret-rocket'], {
+setGroup(data.raw['ammo']['kr-nuclear-turret-rocket'], {
   subgroup: 'ammo',
 });
-setGroup(data.raw['item']['kr-antimatter-turret-rocket'], {
+setGroup(data.raw['ammo']['kr-antimatter-turret-rocket'], {
   subgroup: 'ammo',
 });
 
