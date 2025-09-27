@@ -3,7 +3,7 @@
   "contact": "https://github.com/canisminor1990/factorio-lobehub-decorations/issues",
   "dependencies": [
     "base >= 2.0.0",
-    "?Another_Transport_Drones",
+    "?Transport_Drones_Meglinge_Fork",
     "?cargo-ships",
     "?Krastorio2-spaced-out",
     "?aai-industry"
