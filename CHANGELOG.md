@@ -1,5 +1,36 @@
 # Changelog
 
+### [Version&nbsp;1.4.2](https://github.com/canisminor1990/factorio-lobehub-decorations/compare/v1.4.1...v1.4.2)
+<sup>Released on **2025-09-27**</sup>
+
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix Transport_Drones.
+
+
+<br/>
+
+
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+
+
+#### What's fixed
+
+* **misc**: Fix Transport_Drones ([60cff2c](https://github.com/canisminor1990/factorio-lobehub-decorations/commit/60cff2c))
+
+</details>
+
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version&nbsp;1.4.1](https://github.com/canisminor1990/factorio-lobehub-decorations/compare/v1.4.0...v1.4.1)
 <sup>Released on **2025-09-25**</sup>
 
