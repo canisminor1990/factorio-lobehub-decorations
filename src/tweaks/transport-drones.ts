@@ -6,7 +6,7 @@ import { MODE_DIR } from '../const';
 declare const data: PrototypeData;
 declare const mods: ActiveMods;
 
-if (mods['Transport_Drones_Meglinge_Fork']) {
+if (mods['Transport_Drones_Meglinge_Fork'] || mods['Another_Transport_Drones']) {
   const transportDroneRoad = data.raw.item['road'];
   const transportDroneFastRoad = data.raw.item['fast-road'];
   const transportDroneRoadTile = data.raw.tile['transport-drone-road'];
